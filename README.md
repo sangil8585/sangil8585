@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${HelloWorld!%20!🥳}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=HelloWorld!%20!🥳&fontSize=${50}&animation=${twinkling})
 
 <img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
 
