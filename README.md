@@ -1,26 +1,28 @@
-## Hi there 👋
-
-<!--
-**sangil8585/sangil8585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=Sang-il%20Hub&fontSize=${50}&animation=${twinkling})
-
-<img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : HelloWorld!%20!🥳
-글자크기 : 50
-텍스트효과 : twinkling
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Sang-il's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+          <br/></div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://velog.io/@sangil858585/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sangil858585/posts"> </a>
+         <a href=mailto:sangilbyun93@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sangilbyun93@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangil8585&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
