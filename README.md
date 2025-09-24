@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Sang-il's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤣 developer who makes people laugh</h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🤣 웃음주는 개발자 되기 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 즐거워야 개발도 잘되지 않겠습니까? </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> Don’t you think we code better when it’s fun? </div> 
 </div>
